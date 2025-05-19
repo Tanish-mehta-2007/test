@@ -1,0 +1,10 @@
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request has been made to add a tea","timestamp":"2025-05-19T08:51:00.771Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"500\",\"responseTime\":\"4.395\"}","timestamp":"2025-05-19T08:51:00.776Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request has been made to add a tea","timestamp":"2025-05-19T09:01:44.589Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"29.277\"}","timestamp":"2025-05-19T09:01:44.590Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request has been made to add a tea","timestamp":"2025-05-19T09:01:58.858Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.381\"}","timestamp":"2025-05-19T09:01:58.859Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request has been made to add a tea","timestamp":"2025-05-19T09:02:07.119Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.260\"}","timestamp":"2025-05-19T09:02:07.120Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A post request has been made to add a tea","timestamp":"2025-05-19T09:02:12.216Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"2.061\"}","timestamp":"2025-05-19T09:02:12.219Z"}
